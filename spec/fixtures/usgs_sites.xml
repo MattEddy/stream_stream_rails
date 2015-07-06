@@ -1,0 +1,26 @@
+<usgs_nwis>
+ <site>
+  <site_no>01010000</site_no>
+  <station_nm>St. John River at Ninemile Bridge, Maine</station_nm>
+  <dec_lat_va>46.70055556</dec_lat_va>
+  <dec_long_va>-69.71555560</dec_long_va>
+  <coord_acy_cd>S</coord_acy_cd>
+  <dec_lat_long_datum_cd>NAD83</dec_lat_long_datum_cd>
+  <state_cd>23</state_cd>
+  <data_types_cd>ANANNNNNNNNNNNNNNNNNNNNNNNNNNA</data_types_cd>
+  <reliability_cd></reliability_cd>
+  <rt_bol>1</rt_bol>
+ </site>
+ <site>
+  <site_no>01010070</site_no>
+  <station_nm>Big Black River near Depot Mtn, Maine</station_nm>
+  <dec_lat_va>46.89388889</dec_lat_va>
+  <dec_long_va>-69.75166670</dec_long_va>
+  <coord_acy_cd>S</coord_acy_cd>
+  <dec_lat_long_datum_cd>NAD83</dec_lat_long_datum_cd>
+  <state_cd>23</state_cd>
+  <data_types_cd>ANNNNNNNNNNNNNNNNNNNNNNNNNNNNA</data_types_cd>
+  <reliability_cd></reliability_cd>
+  <rt_bol>1</rt_bol>
+ </site>
+</usgs_nwis>
